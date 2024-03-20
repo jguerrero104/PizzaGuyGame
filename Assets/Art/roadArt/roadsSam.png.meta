@@ -1,0 +1,2428 @@
+fileFormatVersion: 2
+guid: 5fb1c4cdf1a2d134691d37af6a06f1f9
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: roadsSam_0
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 898
+        width: 156
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7a53b4af35a7ae4d940d7b1985e28dc
+      internalID: -1300396883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roadsSam_1
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 898
+        width: 140
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1491237d0bce1104dba65b062547b76f
+      internalID: -721234106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roadsSam_2
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 898
+        width: 111
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77d1997a8e14c0548828974083fd7a0e
+      internalID: 312260987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roadsSam_3
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 898
+        width: 114
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 843f4ff586013ee468076cf183cb5796
+      internalID: 1905576886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roadsSam_4
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 898
+        width: 114
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d95e4d9b5d9294438d0015a6b4f6a41
+      internalID: 611701051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roadsSam_5
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 898
+        width: 116
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5205dce3eafef0a4bbe6542043bcd2f5
+      internalID: 108306796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roadsSam_6
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 898
+        width: 115
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d50ecf242da63124fb5fe3ed48bf4fef
+      internalID: -1792349676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roadsSam_7
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 795
+        width: 153
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6f3b9216e1ea4a488876b7c9a1edfde
+      internalID: 1240633692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roadsSam_8
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 795
+        width: 138
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8a1b04da822a3041b5cdb57f4277e87
+      internalID: 694971899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roadsSam_9
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 763
+        width: 111
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57d3bd52ba57025429748b6ccac99da4
+      internalID: 719517740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roadsSam_10
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 763
+        width: 114
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98c2fc6eeeac57c42bf62f53931477ea
+      internalID: 138885552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roadsSam_11
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 763
+        width: 114
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4682736d41c913646b00df663eb91b97
+      internalID: 1262168797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roadsSam_12
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 763
+        width: 116
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fbf8b746f3346842af82597d83c998a
+      internalID: 1029204996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roadsSam_13
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 763
+        width: 115
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b083a7430d4a6f94dabd37fc4a68db53
+      internalID: 1976372930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roadsSam_14
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 651
+        width: 153
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85475e8c5e8abed439bfc6bc65216828
+      internalID: 748209332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roadsSam_15
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 651
+        width: 139
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6efb25a52dc8e71428764b67340fc50e
+      internalID: -1849678027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roadsSam_16
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 652
+        width: 390
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7420a839606502d4fa7e5ea237000460
+      internalID: -640444883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roadsSam_17
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 652
+        width: 119
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51ab4ea03ce354448b71598f9c257d26
+      internalID: 1151945891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roadsSam_18
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 652
+        width: 116
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be5b0efa1999206458da381e8e9c7444
+      internalID: -2016993169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roadsSam_19
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 575
+        width: 307
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e976e9f4f7ba4bf49a9c9bb1b507c6c6
+      internalID: 883276231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roadsSam_20
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 475
+        width: 62
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a868aa2950c5882468d3e50a0b7dc82e
+      internalID: -1677724535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roadsSam_21
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 464
+        width: 61
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f389608cda0583a4fb61739f0981558e
+      internalID: 1981075957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roadsSam_22
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 176
+        width: 111
+        height: 454
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64dc80247f5bcc54ba92edc366c27cc7
+      internalID: 1625994192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roadsSam_23
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 557
+        width: 37
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88e6d9f661923674cbaf58d2ea883c48
+      internalID: 989646652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roadsSam_24
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 449
+        width: 64
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad4668ae4bedc714082bc78f0aa399b5
+      internalID: 624220854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roadsSam_25
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 557
+        width: 45
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bdd30ba2dbc62747a474dc22bdf694e
+      internalID: 1842543944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roadsSam_26
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 176
+        width: 73
+        height: 453
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f23961563244e04d934009417498a58
+      internalID: -161763002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roadsSam_27
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 498
+        width: 125
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e141a1b6da678240b5808dcc1e50a6a
+      internalID: 1372547639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roadsSam_28
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 464
+        width: 153
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1fdf67c0d317cb41b6fc9a29e46249c
+      internalID: 1822085962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roadsSam_29
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 461
+        width: 63
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0184d2db5b6343740ae7ce0610ef533b
+      internalID: 153938828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roadsSam_30
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 461
+        width: 65
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51f7f97d481c5b04e9c8606ea2a3437a
+      internalID: 899719017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roadsSam_31
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 440
+        width: 24
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72ed42ce9d3c22f4095512bff4739cfc
+      internalID: 1043314669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roadsSam_32
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 450
+        width: 31
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74be1c326b8908e4daaf1961019b1739
+      internalID: 212981124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roadsSam_33
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 450
+        width: 31
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69cc8eeba921b634691820fa938421f4
+      internalID: 2134594563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roadsSam_34
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 344
+        width: 153
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 461ed9b0ae641a64fafeab57416e2498
+      internalID: 991209249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roadsSam_35
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 350
+        width: 153
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 906f875a77db7b641b233f9bd8d37052
+      internalID: 1249300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roadsSam_36
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 348
+        width: 67
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cdb3ab8258a8b04497834621664a2b6
+      internalID: -196761043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roadsSam_37
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 348
+        width: 71
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0615bf5647d5ad847a65ff228ea51928
+      internalID: 1959844783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roadsSam_38
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 348
+        width: 74
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff21de8c4e854254aa230d9c5c24e015
+      internalID: -331966520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roadsSam_39
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 346
+        width: 58
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f09a6a1b82a53644ca30549dacef0e90
+      internalID: 1720940845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roadsSam_40
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 345
+        width: 32
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c33d7fbeda0916a47a24cd7a8ab3a1a0
+      internalID: 1385957674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roadsSam_41
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 344
+        width: 34
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 786591874c0e5334b8dbb4058aaeb50f
+      internalID: 1581151120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roadsSam_42
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 344
+        width: 33
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9502ea9bc03ae984294118224b794f5e
+      internalID: 1580509711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roadsSam_43
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 345
+        width: 32
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 364168403a4142e43b56cc1b96225678
+      internalID: -1151568174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roadsSam_44
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 262
+        width: 109
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0301a4a8a84ba9c4ea145293d3d8db25
+      internalID: -453513647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roadsSam_45
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 262
+        width: 74
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94734dba7b1d134409170009b28392f0
+      internalID: 709947049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roadsSam_46
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 262
+        width: 87
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9175120d93a0a3d4097b4967f6fd23d5
+      internalID: -872028221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roadsSam_47
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 261
+        width: 74
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 995590809c84fe44d95b51f6f57f4df6
+      internalID: -2122271406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roadsSam_48
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 176
+        width: 63
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53f7db9fb5af88e4f8c8e42168c2632c
+      internalID: 2088804879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roadsSam_49
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 176
+        width: 45
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a74ebfe477f52104c8108e6c1f49d38b
+      internalID: 504295000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roadsSam_50
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 269
+        width: 27
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b88dda5efff89474886a45e6e4cf41b7
+      internalID: -1356047978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roadsSam_51
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 269
+        width: 35
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2e4d8278024bd149a8e81940a215e6a
+      internalID: 1939352372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roadsSam_52
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 269
+        width: 28
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab139ee03f749de4c89ee0ff04b8ccfd
+      internalID: -321137587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roadsSam_53
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 176
+        width: 46
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed52a423a6e1e2d4db0200501fd78148
+      internalID: -1637767428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roadsSam_54
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 275
+        width: 45
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f82a2b904615500479d5474dddb20ec4
+      internalID: 1107213217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roadsSam_55
+      rect:
+        serializedVersion: 2
+        x: 1017
+        y: 279
+        width: 7
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1d2d7bc752f3a2478c63533aba268c9
+      internalID: 27618356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roadsSam_56
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 176
+        width: 109
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 129a6cc0163d4804da739b6933c0d618
+      internalID: 1894300174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roadsSam_57
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 176
+        width: 72
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6131fcdf5c458b419d7a309d53e3430
+      internalID: 1240618544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roadsSam_58
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 176
+        width: 87
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e69ee12450e041347a2b974e7274acba
+      internalID: -743300809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roadsSam_59
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 176
+        width: 74
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1202ca988946a47458b477c387c94989
+      internalID: 1836074204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roadsSam_60
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 176
+        width: 33
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b36be7ffd5942f47b8c1071b5a7e0eb
+      internalID: 330237107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roadsSam_61
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 176
+        width: 35
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28f1ad27af9c90e43819eefad5d513a1
+      internalID: -382934822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roadsSam_62
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 176
+        width: 34
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67bd6ac4965e8c34d9dca4df43148bed
+      internalID: -367950838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roadsSam_63
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 176
+        width: 44
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bf0d0be5eb96dd4198597b011f5f224
+      internalID: -563160182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roadsSam_64
+      rect:
+        serializedVersion: 2
+        x: 1013
+        y: 232
+        width: 11
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3a039a01661e004abba62bfb0ab6ebb
+      internalID: 2093385826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roadsSam_65
+      rect:
+        serializedVersion: 2
+        x: 1018
+        y: 176
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff512536bb670084aaf282694c34061f
+      internalID: 1213323102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roadsSam_66
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 124
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaad1deeffba45a4cb25e2e4ca335bf8
+      internalID: 1559348717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roadsSam_67
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 125
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a36fd77f46f10945ba4008a070a557e
+      internalID: 1138378258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roadsSam_68
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 121
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cb79cd0a4e2ad74a88442ab9486961a
+      internalID: -1829623121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roadsSam_69
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 80
+        width: 15
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4729c5bfae24d842828087373b66d88
+      internalID: -756156271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roadsSam_70
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 80
+        width: 55
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ae6b98b180ca3e4986ac71f480ad57e
+      internalID: 1969496230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roadsSam_71
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 80
+        width: 20
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78afafcbb8dc25c45b660e902e74e41f
+      internalID: -1788233597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roadsSam_72
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 80
+        width: 54
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66f58f7691f0fe94798d1c9b79c7990b
+      internalID: -1207099205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roadsSam_73
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 80
+        width: 38
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d23468c92dfe57d4db1bae5d26f7ced3
+      internalID: 1598733208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roadsSam_74
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 80
+        width: 42
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6c0a7ee1816ee34099d0d71520b4d82
+      internalID: 913411207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roadsSam_75
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 80
+        width: 42
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d0b86ea44da1004a9a4908d542e1302
+      internalID: -1901996586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roadsSam_76
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 80
+        width: 50
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea11a212f9ede6f4caad0bfc33e34de2
+      internalID: 506809974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roadsSam_77
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 80
+        width: 41
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 125f07d6330afab4db8caa1e62aede46
+      internalID: 363566937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roadsSam_78
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 80
+        width: 34
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd2d4c398cc65844e863b44935859c30
+      internalID: 1361467076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roadsSam_79
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 80
+        width: 32
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04dc13dab4355df458f929bc4de4492f
+      internalID: 275946454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roadsSam_80
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 119
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 020f70d00a6f19b45b322ebf7564549a
+      internalID: 284346086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roadsSam_81
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 80
+        width: 42
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84365148f0780ed45abd0118391c2929
+      internalID: -1655774123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roadsSam_82
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 80
+        width: 41
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d885a888ade5fe848b3d1e9c33cd5cf4
+      internalID: -1949878384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roadsSam_83
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 80
+        width: 25
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2c70b76bddccaf45a16bc052eed6ae3
+      internalID: 1408926078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roadsSam_84
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 18
+        width: 174
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af88f38cfb955f94386d0dd417b766bc
+      internalID: -848440109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roadsSam_85
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 78
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ebe830988fd2314183e26a6f7b1ec54
+      internalID: -1395041541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roadsSam_86
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 79
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92bd9a4f2582efb4588c18535fa7901e
+      internalID: -968942989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roadsSam_87
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 78
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 505b8cd9ca8da30439e99a95dbb62109
+      internalID: 1588130415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roadsSam_88
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 80
+        width: 48
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 996ec5f275462474a8204d9b2f0ba1b4
+      internalID: 929890322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roadsSam_89
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 21
+        width: 31
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e69e35051f54d9643a32fa7434f89afa
+      internalID: -1611194245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roadsSam_90
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 20
+        width: 29
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efb217c9cda9bf44d992c291e43b1260
+      internalID: -326128275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roadsSam_91
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 21
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb3f794ecbd73a0438c9d4302ea41756
+      internalID: 322410293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roadsSam_92
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 20
+        width: 37
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6be49e3d0fa706a40b1af487ab7ba53a
+      internalID: -750353228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roadsSam_93
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 20
+        width: 36
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfbf982ff4f07d640ae5c870cdf93bc8
+      internalID: 2142614906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roadsSam_94
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 20
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a94d95f71ba3eb54bb80db5e3cf300d9
+      internalID: 427486671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roadsSam_95
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 19
+        width: 38
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c914d9a5681628a44bcaa1117d87e191
+      internalID: -539061751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roadsSam_96
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 19
+        width: 56
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22796acffd7be1f47bb1e175d971998e
+      internalID: -653000061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roadsSam_97
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 20
+        width: 32
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73c53a62b0b797f459dd78f5b3e4aa5e
+      internalID: -213795734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roadsSam_98
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 20
+        width: 32
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e208cfae41088654bbb360942841ed4a
+      internalID: 366074479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roadsSam_99
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 20
+        width: 24
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8abff80e7da0a6b4dbb6851a70507681
+      internalID: 1127824657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roadsSam_100
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 20
+        width: 83
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b92de9eb634ac744b93d3d963fbc6684
+      internalID: -71853051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roadsSam_101
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 19
+        width: 55
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef0ab66c51374194a972b3775824b0e0
+      internalID: -655654164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roadsSam_102
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 20
+        width: 48
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e17c5e34f31efb649a83047c4770e371
+      internalID: 1520827560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roadsSam_103
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 20
+        width: 63
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5f8c06d312d6de4aa7d5226ab1654c1
+      internalID: -1519336193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      roadsSam_0: -1300396883
+      roadsSam_1: -721234106
+      roadsSam_10: 138885552
+      roadsSam_100: -71853051
+      roadsSam_101: -655654164
+      roadsSam_102: 1520827560
+      roadsSam_103: -1519336193
+      roadsSam_11: 1262168797
+      roadsSam_12: 1029204996
+      roadsSam_13: 1976372930
+      roadsSam_14: 748209332
+      roadsSam_15: -1849678027
+      roadsSam_16: -640444883
+      roadsSam_17: 1151945891
+      roadsSam_18: -2016993169
+      roadsSam_19: 883276231
+      roadsSam_2: 312260987
+      roadsSam_20: -1677724535
+      roadsSam_21: 1981075957
+      roadsSam_22: 1625994192
+      roadsSam_23: 989646652
+      roadsSam_24: 624220854
+      roadsSam_25: 1842543944
+      roadsSam_26: -161763002
+      roadsSam_27: 1372547639
+      roadsSam_28: 1822085962
+      roadsSam_29: 153938828
+      roadsSam_3: 1905576886
+      roadsSam_30: 899719017
+      roadsSam_31: 1043314669
+      roadsSam_32: 212981124
+      roadsSam_33: 2134594563
+      roadsSam_34: 991209249
+      roadsSam_35: 1249300002
+      roadsSam_36: -196761043
+      roadsSam_37: 1959844783
+      roadsSam_38: -331966520
+      roadsSam_39: 1720940845
+      roadsSam_4: 611701051
+      roadsSam_40: 1385957674
+      roadsSam_41: 1581151120
+      roadsSam_42: 1580509711
+      roadsSam_43: -1151568174
+      roadsSam_44: -453513647
+      roadsSam_45: 709947049
+      roadsSam_46: -872028221
+      roadsSam_47: -2122271406
+      roadsSam_48: 2088804879
+      roadsSam_49: 504295000
+      roadsSam_5: 108306796
+      roadsSam_50: -1356047978
+      roadsSam_51: 1939352372
+      roadsSam_52: -321137587
+      roadsSam_53: -1637767428
+      roadsSam_54: 1107213217
+      roadsSam_55: 27618356
+      roadsSam_56: 1894300174
+      roadsSam_57: 1240618544
+      roadsSam_58: -743300809
+      roadsSam_59: 1836074204
+      roadsSam_6: -1792349676
+      roadsSam_60: 330237107
+      roadsSam_61: -382934822
+      roadsSam_62: -367950838
+      roadsSam_63: -563160182
+      roadsSam_64: 2093385826
+      roadsSam_65: 1213323102
+      roadsSam_66: 1559348717
+      roadsSam_67: 1138378258
+      roadsSam_68: -1829623121
+      roadsSam_69: -756156271
+      roadsSam_7: 1240633692
+      roadsSam_70: 1969496230
+      roadsSam_71: -1788233597
+      roadsSam_72: -1207099205
+      roadsSam_73: 1598733208
+      roadsSam_74: 913411207
+      roadsSam_75: -1901996586
+      roadsSam_76: 506809974
+      roadsSam_77: 363566937
+      roadsSam_78: 1361467076
+      roadsSam_79: 275946454
+      roadsSam_8: 694971899
+      roadsSam_80: 284346086
+      roadsSam_81: -1655774123
+      roadsSam_82: -1949878384
+      roadsSam_83: 1408926078
+      roadsSam_84: -848440109
+      roadsSam_85: -1395041541
+      roadsSam_86: -968942989
+      roadsSam_87: 1588130415
+      roadsSam_88: 929890322
+      roadsSam_89: -1611194245
+      roadsSam_9: 719517740
+      roadsSam_90: -326128275
+      roadsSam_91: 322410293
+      roadsSam_92: -750353228
+      roadsSam_93: 2142614906
+      roadsSam_94: 427486671
+      roadsSam_95: -539061751
+      roadsSam_96: -653000061
+      roadsSam_97: -213795734
+      roadsSam_98: 366074479
+      roadsSam_99: 1127824657
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
