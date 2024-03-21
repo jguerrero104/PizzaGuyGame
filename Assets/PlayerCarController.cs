@@ -4,6 +4,7 @@ public class PlayerCarController : MonoBehaviour
 {
     public float speed = 5f;
     public float rotationSpeed = 200f;
+    public KeyCode zoomOutKey = KeyCode.Space;
 
     private Rigidbody2D rb;
 
@@ -12,7 +13,7 @@ public class PlayerCarController : MonoBehaviour
         rb = GetComponent<Rigidbody2D>();
     }
 
-    void FixedUpdate()
+    void Update()
     {
         float moveVertical = Input.GetAxis("Vertical");
         float moveHorizontal = Input.GetAxis("Horizontal");
@@ -22,5 +23,15 @@ public class PlayerCarController : MonoBehaviour
 
         float newRotation = rb.rotation - moveHorizontal * rotationSpeed * Time.fixedDeltaTime;
         rb.MoveRotation(newRotation);
+
+        if (Input.GetKeyDown(zoomOutKey))
+        {
+            CameraFollow cameraFollow = Camera.main.GetComponent<CameraFollow>();
+            if (cameraFollow != null)
+            {
+                cameraFollow.ToggleZoom();
+            }
+        }
     }
+    
 }

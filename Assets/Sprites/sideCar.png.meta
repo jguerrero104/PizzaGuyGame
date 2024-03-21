@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 0d96f842bca70544292d22648706b429
+guid: 65b8eba978a64e446b6cb21ab802cb03
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -123,13 +123,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Car_0
+      name: sideCar_0
       rect:
         serializedVersion: 2
         x: 0
-        y: 178
-        width: 493
-        height: 769
+        y: 8
+        width: 189
+        height: 144
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -137,146 +137,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d8728c88ad8654c409fbcc3855bf9e42
-      internalID: 1820025806
+      spriteID: af2cab990cc6991458b5ba6e4abe62f8
+      internalID: -706145497
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Car_1
+      name: sideCar_1
       rect:
         serializedVersion: 2
-        x: 527
-        y: 178
-        width: 497
-        height: 769
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 8a060185bdb1f894797411d5abafc3e9
-      internalID: -1201688806
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Car_2
-      rect:
-        serializedVersion: 2
-        x: 65
-        y: 132
-        width: 30
-        height: 17
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 738d604b5c1b51249a95c6385caeebac
-      internalID: -140289706
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Car_3
-      rect:
-        serializedVersion: 2
-        x: 102
-        y: 133
-        width: 18
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 81d713b330feb1f4ca9f5e23053d0e14
-      internalID: 2047657831
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Car_4
-      rect:
-        serializedVersion: 2
-        x: 317
-        y: 43
-        width: 109
-        height: 106
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 7f3c91784ef0956408b8587611e72871
-      internalID: -1783206826
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Car_5
-      rect:
-        serializedVersion: 2
-        x: 584
-        y: 43
-        width: 109
-        height: 106
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 2a1cdcf343f475a45a515a66d698b52e
-      internalID: -957630694
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Car_6
-      rect:
-        serializedVersion: 2
-        x: 866
-        y: 42
-        width: 109
-        height: 107
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: d6f6d60b3d40ffd4095dc1077dd601ec
-      internalID: -1323220659
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Car_7
-      rect:
-        serializedVersion: 2
-        x: 65
-        y: 36
+        x: 192
+        y: 52
         width: 32
-        height: 86
+        height: 33
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -284,20 +158,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b546a01ab5043ae46977d0011eab39a2
-      internalID: -1837551205
+      spriteID: 541999d05ab29144a81a021fd8fa7d62
+      internalID: 1469416395
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Car_8
+      name: sideCar_2
       rect:
         serializedVersion: 2
-        x: 102
-        y: 36
-        width: 18
-        height: 86
+        x: 237
+        y: 8
+        width: 264
+        height: 144
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -305,20 +179,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: cbcffc5f117710546ae189e59ed920c4
-      internalID: 86218554
+      spriteID: 3f5de2f9d9fe7fa4b80c58af1c6bc8c6
+      internalID: -1998051340
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Car_9
+      name: sideCar_3
       rect:
         serializedVersion: 2
-        x: 187
-        y: 37
-        width: 93
-        height: 95
+        x: 192
+        y: 8
+        width: 5
+        height: 5
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -326,20 +200,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0e3047609086d724694b09bf79bf91b5
-      internalID: -582439824
+      spriteID: 61c634d178ab93546b82192813ac7a04
+      internalID: -311228442
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Car_10
+      name: sideCar_4
       rect:
         serializedVersion: 2
-        x: 732
-        y: 37
-        width: 95
-        height: 95
+        x: 210
+        y: 7
+        width: 22
+        height: 7
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -347,8 +221,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e80f229e93039b14a9223c6c337d6e20
-      internalID: 1346112182
+      spriteID: 368d37858462e774f984cca24c91df2f
+      internalID: 202538024
       vertices: []
       indices: 
       edges: []
@@ -364,17 +238,11 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Car_0: 1820025806
-      Car_1: -1201688806
-      Car_10: 1346112182
-      Car_2: -140289706
-      Car_3: 2047657831
-      Car_4: -1783206826
-      Car_5: -957630694
-      Car_6: -1323220659
-      Car_7: -1837551205
-      Car_8: 86218554
-      Car_9: -582439824
+      sideCar_0: -706145497
+      sideCar_1: 1469416395
+      sideCar_2: -1998051340
+      sideCar_3: -311228442
+      sideCar_4: 202538024
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
