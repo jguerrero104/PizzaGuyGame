@@ -16,6 +16,7 @@ public class CityGeneration : MonoBehaviour
 
     private void Start()
     {
+        DeliveryTimerManager.StartTimer();
         GenerateCity();
     }
 

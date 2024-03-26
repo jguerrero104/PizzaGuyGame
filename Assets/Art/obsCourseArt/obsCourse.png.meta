@@ -1,0 +1,2384 @@
+fileFormatVersion: 2
+guid: 18c66119363a7dd4e93764296ad7d947
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: obsCourse_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1407
+        width: 1024
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7785168d70939594c93841958701a0a1
+      internalID: 1846755320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: obsCourse_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1408
+        width: 90
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80ea7f7530263eb4aaa2ff19f512875c
+      internalID: -2008772770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: obsCourse_2
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 1415
+        width: 51
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a91ea6d3a2879e245a8a05c24b67a438
+      internalID: 2034595629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: obsCourse_3
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 1415
+        width: 51
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5621b1ebd4d46b4a9f40e4a18b51454
+      internalID: -712145439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: obsCourse_4
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 1407
+        width: 91
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c895b4ac2425d1941a013b4c8a3981a4
+      internalID: 898837267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: obsCourse_5
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 1415
+        width: 60
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e97fd8553a5cac4d8b26c391d5993a6
+      internalID: -719268192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: obsCourse_6
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 1415
+        width: 59
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a3b618e4af237f478c0ae0a2f72f3ff
+      internalID: 1863173631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: obsCourse_7
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 1415
+        width: 59
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d2d0e1bf44938d4b88b15eb11250ec1
+      internalID: -1300264013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: obsCourse_8
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 1415
+        width: 58
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b25dbea444bbe64eb7c867f3d2c9f3d
+      internalID: -2142951147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: obsCourse_9
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 1415
+        width: 57
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb08f3359d152ca41a4ce08e28ac79a1
+      internalID: -557029326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: obsCourse_10
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 1415
+        width: 57
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3a89705040679a40b6fe6a16b2685fa
+      internalID: -1096768889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: obsCourse_11
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1324
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43db043a9a61f2f4bb65affa147a9152
+      internalID: -280045525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: obsCourse_12
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 1327
+        width: 61
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c69b99dc5ccbb947bcc5b06ce803bac
+      internalID: 180548443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: obsCourse_13
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 1323
+        width: 71
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4603402192dd62f47a37910690e00886
+      internalID: -559747793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: obsCourse_14
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 1327
+        width: 61
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a4e392158a504b4a842e93c4a589783
+      internalID: -728828098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: obsCourse_15
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 1327
+        width: 58
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60c6e7e6565b63b438ca58cc7d6d23fe
+      internalID: -1254613781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: obsCourse_16
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 1324
+        width: 56
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da5e8380b8d20ff41af06f40a55ca59e
+      internalID: -1589853979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: obsCourse_17
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 1325
+        width: 57
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16b8b7c4d525af64d990f9b3ca676779
+      internalID: 258665765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: obsCourse_18
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 1250
+        width: 213
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 733dfe2a98f3c174396835dbb3616bad
+      internalID: 883975182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: obsCourse_19
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 1250
+        width: 281
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2ddce92ef4496b4c975958957d56fd4
+      internalID: 1242010580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: obsCourse_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1234
+        width: 164
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22e6d40911e5e8f4a953a9c92cdd00f2
+      internalID: 1184869747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: obsCourse_21
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 1243
+        width: 63
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8ea36b44abdcd043a5e56c5a6bd73d2
+      internalID: -955987581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: obsCourse_22
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 1250
+        width: 69
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9779c5f645a5f34fb579e02f755a87e
+      internalID: -1646568180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: obsCourse_23
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 1250
+        width: 70
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f41929b394b7c75468893de95bc658b6
+      internalID: 886232129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: obsCourse_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1152
+        width: 81
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20a762a55a40f4c4d92818c13816baf5
+      internalID: 5204309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: obsCourse_25
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 1152
+        width: 49
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96dc3a41f6051d440b5d7a5b43440afe
+      internalID: -562509074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: obsCourse_26
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 1145
+        width: 74
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc30b1f532a209340b58c89bcf4f56d1
+      internalID: -525154533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: obsCourse_27
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 1145
+        width: 77
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81a82bd06ab11c84e923eec376b96cdf
+      internalID: -1455973921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: obsCourse_28
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 1144
+        width: 77
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d2d0f85de713d04ab8933f696347b94
+      internalID: -1383656722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: obsCourse_29
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 1146
+        width: 83
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e1b4fda319bc734990cd68606f0a1c4
+      internalID: 1044703790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: obsCourse_30
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 1147
+        width: 80
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 324c9104ed8cf4949a7d2128645eadec
+      internalID: -291260230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: obsCourse_31
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 1157
+        width: 58
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50f7f0b6164527f4a82dac65832781ff
+      internalID: 2143617434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: obsCourse_32
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 1145
+        width: 29
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c73587896968414cb6451b05299a199
+      internalID: -1698433884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: obsCourse_33
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 1145
+        width: 29
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f922864e4fc04c44ab5f440a6c983892
+      internalID: -129839541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: obsCourse_34
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 1043
+        width: 46
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 934b9869cf36f61429b84a40c2083f5e
+      internalID: -315139001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: obsCourse_35
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 1043
+        width: 47
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2697a562be5e3c74cb24adf6f4961f4a
+      internalID: -1301381982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: obsCourse_36
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 1043
+        width: 46
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 663b314cd69dedd4c9e42dc383c04337
+      internalID: -1486517369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: obsCourse_37
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1041
+        width: 234
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dec1566ace399664f8225b9668e20f62
+      internalID: 1613454288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: obsCourse_38
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 1042
+        width: 573
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e508e42a7fc3bf54fa99e6a32a5a5ae4
+      internalID: -1536632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: obsCourse_39
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 1036
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 343b5af4b38935142b1f00976e2ecc13
+      internalID: -1073914400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: obsCourse_40
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 1037
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b461cceec9090ef4d8ea515aabb06709
+      internalID: 270739656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: obsCourse_41
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 1035
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3ae3f39d81aa0146ba2ca8bef5ca79c
+      internalID: 80182834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: obsCourse_42
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 1029
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f8373da421af934aa130f5634de00b9
+      internalID: 978487264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: obsCourse_43
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 1029
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ad3a5878f7d07846a89a7fa0d3fa33e
+      internalID: 1546188851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: obsCourse_44
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 1029
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26e50bb489bdb39408c896a0997aeba8
+      internalID: 1982379435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: obsCourse_45
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 1030
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1612b745ea0efb499949423e0a2ecff
+      internalID: 633269896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: obsCourse_46
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 1030
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2c9834ec054c984886143c110ee28eb
+      internalID: 1744657140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: obsCourse_47
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 1029
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5ea5a34e38d0c44c839e94ad170a37d
+      internalID: 1956024685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: obsCourse_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 849
+        width: 67
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1f9d9e6f767d254c8dc7a78f26214eb
+      internalID: 1709423989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: obsCourse_49
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 851
+        width: 61
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a9a1e11d818f5341b1fb391fae1b1fa
+      internalID: -1423938490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: obsCourse_50
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 850
+        width: 68
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dd745d842f2d4a4283484d03fca972b
+      internalID: -1449369819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: obsCourse_51
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 954
+        width: 78
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8ccc17c24c03104b85b2aa10bde16bf
+      internalID: -529552513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: obsCourse_52
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 952
+        width: 82
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38085c4c5e3014e4b887703a2dde82c8
+      internalID: 103666767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: obsCourse_53
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 953
+        width: 74
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a33ff3b2e7ecf254d9bd1ca4684018dd
+      internalID: -1370826613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: obsCourse_54
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 949
+        width: 81
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b17c51acebb98de40b399ff4283374a3
+      internalID: -1586971845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: obsCourse_55
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 953
+        width: 86
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b473e96dd4beb75449b9cd7e5ea06a64
+      internalID: -1868954925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: obsCourse_56
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 870
+        width: 243
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d35590a6642085d46826f7b34012126c
+      internalID: -632036651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: obsCourse_57
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 850
+        width: 471
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba103c76e9ff9a14f81ead6c5c02c9ab
+      internalID: -1200364145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: obsCourse_58
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 753
+        width: 67
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f63369cf3e5f31e4297dd4a610916856
+      internalID: 1934882347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: obsCourse_59
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 755
+        width: 74
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eebea2ded30b92147a12cd97107104f9
+      internalID: 422605929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: obsCourse_60
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 764
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb2a999088a1033468f3c135be890cf7
+      internalID: 845058382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: obsCourse_61
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 732
+        width: 69
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ebf43f19c99703488f82154406bbed6
+      internalID: 1153045986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: obsCourse_62
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 757
+        width: 79
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8aaf4313a8aede84fb65985bbed5e005
+      internalID: 2036300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: obsCourse_63
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 732
+        width: 66
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37d0f8dfd6efe444bbc515e7bc08dbb1
+      internalID: -453664770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: obsCourse_64
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 744
+        width: 64
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae30c732c8587a64c8b0dfc5c8da070c
+      internalID: 304817374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: obsCourse_65
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 683
+        width: 61
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db02c9408ed01bf44ad1652fa7a578b8
+      internalID: 1671822527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: obsCourse_66
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 745
+        width: 57
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab81c753a31a823419a7a9bdcb9f8b56
+      internalID: -601909287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: obsCourse_67
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 770
+        width: 34
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 677b77bc25f8d404992997c13f1dd669
+      internalID: 1759621778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: obsCourse_68
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 770
+        width: 36
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39b0590610b97824ba1638c45eb45dcd
+      internalID: -297063756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: obsCourse_69
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 770
+        width: 44
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b60b4883dacdae943aea1e8c8cf1b405
+      internalID: -1840272147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: obsCourse_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 662
+        width: 66
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e81c455a982caea4a92bae2ca5f644e1
+      internalID: -523302833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: obsCourse_71
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 662
+        width: 74
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fe740cb3cd609645b6c703cd5937782
+      internalID: -769750654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: obsCourse_72
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 668
+        width: 58
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cee9dc97755254449044695bb01be66
+      internalID: 1278360808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: obsCourse_73
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 668
+        width: 69
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67b556fe9fad8e747af4191d1d8e2cd0
+      internalID: -404409699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: obsCourse_74
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 668
+        width: 69
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3d11191667c83f4085954f6ec23371b
+      internalID: -1748058118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: obsCourse_75
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 668
+        width: 67
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36ecddf088a296f44aacb75c58f5cf2c
+      internalID: -1415368770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: obsCourse_76
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 683
+        width: 64
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec8d02f94dd6eb64ca8cdcf2d5e5c28f
+      internalID: -977094717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: obsCourse_77
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 683
+        width: 61
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df43495066564144f82268ec96014286
+      internalID: 2082771301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: obsCourse_78
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 666
+        width: 167
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fc03338b4dfe2a43924dd9106b6ba5c
+      internalID: -462711465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: obsCourse_79
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 570
+        width: 56
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a617d029004dfe47bff762668e72afc
+      internalID: 2112210932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: obsCourse_80
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 570
+        width: 66
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9178dc90b03cc349b9a732f35c45439
+      internalID: -2049105483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: obsCourse_81
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 570
+        width: 66
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f3e327321e56a345a9fe622158e8185
+      internalID: 1452559199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: obsCourse_82
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 570
+        width: 66
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39132d784380b514d860880848f9f9f8
+      internalID: 71632230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: obsCourse_83
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 570
+        width: 67
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6af47ccf66d831439de912f963d1d5b
+      internalID: 309204507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: obsCourse_84
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 570
+        width: 67
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f73a38f5d75c5fd419cba46bb6faefc3
+      internalID: 1898526608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: obsCourse_85
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 461
+        width: 65
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 695869d7792f6064fa3ba62efb3ffa7c
+      internalID: -459838163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: obsCourse_86
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 462
+        width: 64
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c9abc5841182b24ab95324507e99b26
+      internalID: -1460617149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: obsCourse_87
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 576
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39b746378ea3c5f47b31e24f31fc0bd0
+      internalID: 1656156743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: obsCourse_88
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 564
+        width: 74
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e27c8f1e680f3349bcc0685b73d8819
+      internalID: 1418607632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: obsCourse_89
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 563
+        width: 72
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f31f377d43bba6f4394028fe57cba0f2
+      internalID: 281725021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: obsCourse_90
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 470
+        width: 57
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39b4b235b907a0d4fb9044823f0c80da
+      internalID: -650488172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: obsCourse_91
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 470
+        width: 66
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c2b71a73e93cf14a91eebd52a194d8e
+      internalID: 1058880568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: obsCourse_92
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 470
+        width: 65
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 839bf824b476c3844a36ec079bbec19e
+      internalID: -1437493490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: obsCourse_93
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 473
+        width: 82
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35704e71001f7cb4880a0a7a681ae6d2
+      internalID: -173817503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: obsCourse_94
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 473
+        width: 77
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e82fd5f72abdca341a09497521916227
+      internalID: 1527387763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: obsCourse_95
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 473
+        width: 78
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08228961541d8e54ab5cc32f88ca03bf
+      internalID: -645347593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: obsCourse_96
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 472
+        width: 57
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45f0d0bd9c6000c44ba13cb582ef04e1
+      internalID: 956937681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: obsCourse_97
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 472
+        width: 58
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2760740d9194b3408b424158ffa6a62
+      internalID: 1036885004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: obsCourse_98
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 463
+        width: 72
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cf6085aac0099244bba1335e2c1086b
+      internalID: 612416187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: obsCourse_99
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 262
+        width: 357
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64a39bf079ddab349afb827030d1682a
+      internalID: -624038785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: obsCourse_100
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 262
+        width: 147
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2a764fa1267b3b4e960361946652942
+      internalID: -454387745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: obsCourse_101
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 192
+        width: 456
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28a938105fad48549b25dedd3b4de8a7
+      internalID: 1366509921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      obsCourse_0: 1846755320
+      obsCourse_1: -2008772770
+      obsCourse_10: -1096768889
+      obsCourse_100: -454387745
+      obsCourse_101: 1366509921
+      obsCourse_11: -280045525
+      obsCourse_12: 180548443
+      obsCourse_13: -559747793
+      obsCourse_14: -728828098
+      obsCourse_15: -1254613781
+      obsCourse_16: -1589853979
+      obsCourse_17: 258665765
+      obsCourse_18: 883975182
+      obsCourse_19: 1242010580
+      obsCourse_2: 2034595629
+      obsCourse_20: 1184869747
+      obsCourse_21: -955987581
+      obsCourse_22: -1646568180
+      obsCourse_23: 886232129
+      obsCourse_24: 5204309
+      obsCourse_25: -562509074
+      obsCourse_26: -525154533
+      obsCourse_27: -1455973921
+      obsCourse_28: -1383656722
+      obsCourse_29: 1044703790
+      obsCourse_3: -712145439
+      obsCourse_30: -291260230
+      obsCourse_31: 2143617434
+      obsCourse_32: -1698433884
+      obsCourse_33: -129839541
+      obsCourse_34: -315139001
+      obsCourse_35: -1301381982
+      obsCourse_36: -1486517369
+      obsCourse_37: 1613454288
+      obsCourse_38: -1536632
+      obsCourse_39: -1073914400
+      obsCourse_4: 898837267
+      obsCourse_40: 270739656
+      obsCourse_41: 80182834
+      obsCourse_42: 978487264
+      obsCourse_43: 1546188851
+      obsCourse_44: 1982379435
+      obsCourse_45: 633269896
+      obsCourse_46: 1744657140
+      obsCourse_47: 1956024685
+      obsCourse_48: 1709423989
+      obsCourse_49: -1423938490
+      obsCourse_5: -719268192
+      obsCourse_50: -1449369819
+      obsCourse_51: -529552513
+      obsCourse_52: 103666767
+      obsCourse_53: -1370826613
+      obsCourse_54: -1586971845
+      obsCourse_55: -1868954925
+      obsCourse_56: -632036651
+      obsCourse_57: -1200364145
+      obsCourse_58: 1934882347
+      obsCourse_59: 422605929
+      obsCourse_6: 1863173631
+      obsCourse_60: 845058382
+      obsCourse_61: 1153045986
+      obsCourse_62: 2036300042
+      obsCourse_63: -453664770
+      obsCourse_64: 304817374
+      obsCourse_65: 1671822527
+      obsCourse_66: -601909287
+      obsCourse_67: 1759621778
+      obsCourse_68: -297063756
+      obsCourse_69: -1840272147
+      obsCourse_7: -1300264013
+      obsCourse_70: -523302833
+      obsCourse_71: -769750654
+      obsCourse_72: 1278360808
+      obsCourse_73: -404409699
+      obsCourse_74: -1748058118
+      obsCourse_75: -1415368770
+      obsCourse_76: -977094717
+      obsCourse_77: 2082771301
+      obsCourse_78: -462711465
+      obsCourse_79: 2112210932
+      obsCourse_8: -2142951147
+      obsCourse_80: -2049105483
+      obsCourse_81: 1452559199
+      obsCourse_82: 71632230
+      obsCourse_83: 309204507
+      obsCourse_84: 1898526608
+      obsCourse_85: -459838163
+      obsCourse_86: -1460617149
+      obsCourse_87: 1656156743
+      obsCourse_88: 1418607632
+      obsCourse_89: 281725021
+      obsCourse_9: -557029326
+      obsCourse_90: -650488172
+      obsCourse_91: 1058880568
+      obsCourse_92: -1437493490
+      obsCourse_93: -173817503
+      obsCourse_94: 1527387763
+      obsCourse_95: -645347593
+      obsCourse_96: 956937681
+      obsCourse_97: 1036885004
+      obsCourse_98: 612416187
+      obsCourse_99: -624038785
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

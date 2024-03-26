@@ -8,11 +8,13 @@ public class PlayerController : MonoBehaviour
     private SpriteRenderer spriteRenderer;
     private Sprite originalSprite; // To store the original sprite
     private float idleTimer = 0f; // Timer to track idle time
+    private Rigidbody2D rb;
 
     void Start()
     {
         spriteRenderer = GetComponent<SpriteRenderer>();
         originalSprite = spriteRenderer.sprite; // Store the original sprite
+        rb = GetComponent<Rigidbody2D>();
     }
 
     void Update()
