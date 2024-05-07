@@ -19,7 +19,7 @@ public class DeliveryBuilding : MonoBehaviour
             Debug.Log("Delivery successful!");
             // Reset the delivery address flag
             isDeliveryAddress = false;
-            // Optionally, trigger any delivery completion logic, such as updating the score
+        
         }
     }
 }

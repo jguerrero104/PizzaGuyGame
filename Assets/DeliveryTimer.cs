@@ -6,7 +6,7 @@ using TMPro;
 public class DeliveryTimer : MonoBehaviour
 {
     public TextMeshProUGUI timerText;
-    public float timeRemaining = 60f; // Set this to the desired starting time
+    public float timeRemaining = 60f; 
 
     void Update()
     {
@@ -19,8 +19,7 @@ public class DeliveryTimer : MonoBehaviour
         {
             // Time's up, handle delivery failure
             Debug.Log("Delivery Failed!");
-            // Optionally, reload the scene or transition to a failure screen
-            // SceneManager.LoadScene(SceneManager.GetActiveScene().name);
+       
         }
     }
 
@@ -28,6 +27,6 @@ public class DeliveryTimer : MonoBehaviour
     {
         // Handle successful delivery
         Debug.Log("Delivery Completed!");
-        // Optionally, transition to a success screen or the next level
+        
     }
 }

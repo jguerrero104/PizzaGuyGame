@@ -7,6 +7,8 @@ public class PlayerCarController : MonoBehaviour
     public KeyCode zoomOutKey = KeyCode.Space;
 
     private Rigidbody2D rb;
+    private float moveVertical;
+    private float moveHorizontal;
 
     void Start()
     {
@@ -15,15 +17,11 @@ public class PlayerCarController : MonoBehaviour
 
     void Update()
     {
-        float moveVertical = Input.GetAxis("Vertical");
-        float moveHorizontal = Input.GetAxis("Horizontal");
+        // Gather input from the keyboard
+        moveVertical = Input.GetAxis("Vertical");
+        moveHorizontal = Input.GetAxis("Horizontal");
 
-        Vector2 newPosition = rb.position + (Vector2)transform.up * moveVertical * speed * Time.fixedDeltaTime;
-        rb.MovePosition(newPosition);
-
-        float newRotation = rb.rotation - moveHorizontal * rotationSpeed * Time.fixedDeltaTime;
-        rb.MoveRotation(newRotation);
-
+        // Handle camera zoom
         if (Input.GetKeyDown(zoomOutKey))
         {
             CameraFollow cameraFollow = Camera.main.GetComponent<CameraFollow>();
@@ -33,5 +31,14 @@ public class PlayerCarController : MonoBehaviour
             }
         }
     }
-    
+
+    void FixedUpdate()
+    {
+        // Handle movement and rotation
+        Vector2 newPosition = rb.position + (Vector2)transform.up * moveVertical * speed * Time.fixedDeltaTime;
+        rb.MovePosition(newPosition);
+
+        float newRotation = rb.rotation - moveHorizontal * rotationSpeed * Time.fixedDeltaTime;
+        rb.MoveRotation(newRotation);
+    }
 }
