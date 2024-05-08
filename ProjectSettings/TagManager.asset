@@ -6,6 +6,7 @@ TagManager:
   tags:
   - PlayerCharacter
   - buildings
+  - AICar
   layers:
   - Default
   - TransparentFX
@@ -16,8 +17,8 @@ TagManager:
   - Text
   - Player
   - Roads
-  - 
-  - 
+  - PlayerCar
+  - AICar
   - 
   - 
   - 

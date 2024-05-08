@@ -11,32 +11,36 @@ public class AICar : MonoBehaviour
     private int pathIndex = 0;
     private Rigidbody2D rb;
     public Sprite carSprite;
+    public List<Color> carColors;
 
     private SpriteRenderer spriteRenderer;
+void Start()
+{
+    rb = GetComponent<Rigidbody2D>();
+    rb.constraints = RigidbodyConstraints2D.FreezeRotation;
 
-    void Start()
+    spriteRenderer = GetComponent<SpriteRenderer>();
+    if (spriteRenderer == null)
     {
-        rb = GetComponent<Rigidbody2D>();
-        rb.constraints = RigidbodyConstraints2D.FreezeRotation;
-
-        spriteRenderer = GetComponent<SpriteRenderer>();
-        if (spriteRenderer == null)
-        {
-            spriteRenderer = gameObject.AddComponent<SpriteRenderer>();
-        }
-
-        if (carSprite != null)
-        {
-            spriteRenderer.sprite = carSprite;
-        }
-        else
-        {
-            Debug.LogWarning("Car sprite not assigned.");
-        }
-
-        // Get the shortest path
-        path = Dijkstra.FindShortestPath(cityGraph, currentPos, targetPos);
+        spriteRenderer = gameObject.AddComponent<SpriteRenderer>();
     }
+
+    // Randomize car color
+    Color randomColor = new Color(Random.value, Random.value, Random.value);
+    spriteRenderer.color = randomColor;
+
+    if (carSprite != null)
+    {
+        spriteRenderer.sprite = carSprite;
+    }
+    else
+    {
+        Debug.LogWarning("Car sprite not assigned.");
+    }
+
+    // Get the shortest path
+    path = Dijkstra.FindShortestPath(cityGraph, currentPos, targetPos);
+}
 
     void Update()
     {
@@ -85,25 +89,25 @@ public class AICar : MonoBehaviour
         {
             // Facing right
             spriteRenderer.flipX = false;
-            spriteRenderer.transform.rotation = Quaternion.Euler(0, 0, 0);
+            spriteRenderer.transform.rotation = Quaternion.Euler(0, 0, -90);
         }
         else if (direction.x < 0)
         {
             // Facing left
             spriteRenderer.flipX = true;
-            spriteRenderer.transform.rotation = Quaternion.Euler(0, 0, 0);
+            spriteRenderer.transform.rotation = Quaternion.Euler(0, 0, 90);
         }
         else if (direction.y > 0)
         {
             // Facing up
             spriteRenderer.flipX = false;
-            spriteRenderer.transform.rotation = Quaternion.Euler(0, 0, 90);
+            spriteRenderer.transform.rotation = Quaternion.Euler(0, 0, 0);
         }
         else if (direction.y < 0)
         {
             // Facing down
             spriteRenderer.flipX = false;
-            spriteRenderer.transform.rotation = Quaternion.Euler(0, 0, -90);
+            spriteRenderer.transform.rotation = Quaternion.Euler(0, 0, 180);
         }
     }
 }

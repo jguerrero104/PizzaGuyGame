@@ -14,7 +14,7 @@ GameObject:
   - component: {fileID: -5595817603574610244}
   m_Layer: 8
   m_Name: AICar
-  m_TagString: Untagged
+  m_TagString: AICar
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -28,7 +28,7 @@ Transform:
   m_GameObject: {fileID: 5800692469784242475}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 96.788765, y: 69.77389, z: 5741.9307}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 0.5, y: 0.5, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -50,6 +50,7 @@ MonoBehaviour:
   currentPos: {x: 0, y: 0}
   targetPos: {x: 0, y: 0}
   carSprite: {fileID: 1820025806, guid: 0d96f842bca70544292d22648706b429, type: 3}
+  carColors: []
 --- !u!50 &-678508607504209386
 Rigidbody2D:
   serializedVersion: 4
